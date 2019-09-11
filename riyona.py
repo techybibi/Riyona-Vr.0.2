@@ -2,9 +2,9 @@ from nltk.chat.util import Chat, reflections
 from yahoo_weather.weather import YahooWeather
 from yahoo_weather.config.units import Unit
 
-weather = YahooWeather(APP_ID="bZfbp95i",
-                     api_key="dj0yJmk9WlFYSnR2ZG5aTUcxJmQ9WVdrOVlscG1ZbkE1TldrbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PWJh",
-                     api_secret="46d7dd26679a3d6bdfc8e59ccb392469c1027d5d")
+weather = YahooWeather(APP_ID="###",
+                     api_key="###",
+                     api_secret="###")
 
 pairs = [
     [
